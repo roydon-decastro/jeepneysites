@@ -18,6 +18,11 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <style>
+      #menu-toggle:checked + #menu {
+        display: block;
+      }
+    </style>
 </head>
 <body>
   

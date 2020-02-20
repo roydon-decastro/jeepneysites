@@ -7,6 +7,8 @@ module.exports = {
         'flat2' : '#87c0cd',
         'flat3' : '#ff7517',
         'flat4' : '#113f67',
+        'flat5' : '#ffa41b',
+        'flat6' : '#c81912',
         'gold1' : '#ffcc00',
         'smoke-darkest': 'rgba(0, 0, 0, 0.9)',
         'smoke-darker': 'rgba(0, 0, 0, 0.75)',
@@ -17,6 +19,8 @@ module.exports = {
         'smoke-lightest': 'rgba(0, 0, 0, 0.1)',
       },
       spacing: {
+        '72' : '18rem',
+        '80' : '20rem',
         'seven' : '28rem',
         'eight' : '48rem',
       },

@@ -59,6 +59,8 @@ class TemplatesController extends Controller
     public function show(Template $template)
     {
         //
+        return view('templates.show')->with('template', $template);       
+
     }
 
     /**
